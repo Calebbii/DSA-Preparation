@@ -56,6 +56,5 @@ Feel free to open an [issue] with your suggestion!
 
 [leetcode.com]: https://leetcode.com
 [leetcode premium]: https://leetcode.com/subscribe/
-[grokking the coding interview]: https://www.educative.io/courses/grokking-the-coding-interview
 [issue]: https://github.com/Calebbii/DSA-preparation/issues/new
 
