@@ -25,7 +25,7 @@ To find the greatest amount of success when practicing, it is highly recommended
 to know the methods and runtimes of the following data structures and their
 operations:
 
-- Arrays
+- Arrays/Strings
 - Maps
 - Linked Lists
 - Queues
